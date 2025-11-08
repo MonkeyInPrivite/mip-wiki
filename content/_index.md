@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: MIP Wiki
 toc: false
 ---
 
