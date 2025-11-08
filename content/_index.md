@@ -1,5 +1,5 @@
 ---
-title: MIP Wiki
+title: Overview
 toc: false
 ---
 
