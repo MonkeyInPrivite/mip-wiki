@@ -1,1 +1,3 @@
-why are we still here? just to suffer?
+why are we still here? just to suffer?  
+
+holy crap the bot finally works 
