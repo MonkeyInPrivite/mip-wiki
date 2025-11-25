@@ -1,9 +1,9 @@
 ---
-title: Demo Page
+title: What is this for?
 type: docs
 prev: /
 next: docs/folder/
 ---
 
-A simple demo page.
+This page aims to be a more central location for any infromation regarding problems related to jailbroken Kindles. 
 
