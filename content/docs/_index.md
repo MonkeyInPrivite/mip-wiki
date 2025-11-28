@@ -1,6 +1,7 @@
 ---
-title: What is this for?
+title: Introduction
 next: whatisthisfor
 ---
 
+# What is this for?
 To be typed
