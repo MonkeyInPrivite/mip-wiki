@@ -2,7 +2,7 @@
 title: Folder
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/Database/leaf
 sidebar:
   open: true
 ---
