@@ -24,9 +24,9 @@ menu:
     - name: Credits
       pageRef: /credits
       weight: 2
-    - name: Credits
-      pageRef: /credits
-      weight: 2
+    - name: About Me
+      pageRef: /aboutme
+      weight: 3
     - name: Search
       weight: 4
       params:
