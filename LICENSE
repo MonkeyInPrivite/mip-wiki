@@ -1,66 +1,8 @@
-Attribution-NonCommercial-NoDerivatives 4.0 International
-
-=======================================================================
-
-Creative Commons Corporation ("Creative Commons") is not a law firm and
-does not provide legal services or legal advice. Distribution of
-Creative Commons public licenses does not create a lawyer-client or
-other relationship. Creative Commons makes its licenses and related
-information available on an "as-is" basis. Creative Commons gives no
-warranties regarding its licenses, any material licensed under their
-terms and conditions, or any related information. Creative Commons
-disclaims all liability for damages resulting from their use to the
-fullest extent possible.
-
-Using Creative Commons Public Licenses
-
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright
-and certain other rights specified in the public license below. The
-following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
-
-     Considerations for licensors: Our public licenses are
-     intended for use by those authorized to give the public
-     permission to use material in ways otherwise restricted by
-     copyright and certain other rights. Our licenses are
-     irrevocable. Licensors should read and understand the terms
-     and conditions of the license they choose before applying it.
-     Licensors should also secure all rights necessary before
-     applying our licenses so that the public can reuse the
-     material as expected. Licensors should clearly mark any
-     material not subject to the license. This includes other CC-
-     licensed material, or material used under an exception or
-     limitation to copyright. More considerations for licensors:
-    wiki.creativecommons.org/Considerations_for_licensors
-
-     Considerations for the public: By using one of our public
-     licenses, a licensor grants the public permission to use the
-     licensed material under specified terms and conditions. If
-     the licensor's permission is not necessary for any reason--for
-     example, because of any applicable exception or limitation to
-     copyright--then that use is not regulated by the license. Our
-     licenses grant only permissions under copyright and certain
-     other rights that a licensor has authority to grant. Use of
-     the licensed material may still be restricted for other
-     reasons, including because others have copyright or other
-     rights in the material. A licensor may make special requests,
-     such as asking that all changes be marked or described.
-     Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More considerations
-     for the public:
-    wiki.creativecommons.org/Considerations_for_licensees
-
-=======================================================================
-
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International Public License
+Custom Licence by MonkeyInPrivite, based off of the Attribution-NonCommercial-NoDerivatives 4.0 International licence by Creative Commons 
 
 By exercising the Licensed Rights (defined below), You accept and agree
-to be bound by the terms and conditions of this Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International Public
-License ("Public License"). To the extent this Public License may be
+to be bound by the terms and conditions of this custom
+license ("Public License"). To the extent this Public License may be
 interpreted as a contract, You are granted the Licensed Rights in
 consideration of Your acceptance of these terms and conditions, and the
 Licensor grants You such rights in consideration of benefits the
@@ -146,10 +88,12 @@ Section 2 -- Scope.
           exercise the Licensed Rights in the Licensed Material to:
 
             a. reproduce and Share the Licensed Material, in whole or
-               in part, for NonCommercial purposes only; and
+               in part, for NonCommercial purposes only when permission is granted through the author or a contributor to the project; and
 
             b. produce and reproduce, but not Share, Adapted Material
-               for NonCommercial purposes only.
+               for NonCommercial purposes only and when granted permission by the author or a contributor.
+               
+             c. You may use this content under the listed scope only under the terms that permission has been granted for your public use by the author of the project or an individual who has made merged contributions to the project; a "contributor". In the case that you are granted permission by a contributor, the author retains rights to deny you permission to use the content in any public manner. Note that in an event like this, you are still allowed to use content contributed by individual contributors of they have granted you permission.
 
        2. Exceptions and Limitations. For the avoidance of doubt, where
           Exceptions and Limitations apply to Your use, this Public
@@ -379,25 +323,11 @@ Section 8 -- Interpretation.
      as a limitation upon, or waiver of, any privileges and immunities
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
+     
+Section 9  -- Contributions 
 
-=======================================================================
-
-Creative Commons is not a party to its public
-licenses. Notwithstanding, Creative Commons may elect to apply one of
-its public licenses to material it publishes and in those instances
-will be considered the “Licensor.” The text of the Creative Commons
-public licenses is dedicated to the public domain under the CC0 Public
-Domain Dedication. Except for the limited purpose of indicating that
-material is shared under a Creative Commons public license or as
-otherwise permitted by the Creative Commons policies published at
-creativecommons.org/policies, Creative Commons does not authorize the
-use of the trademark "Creative Commons" or any other trademark or logo
-of Creative Commons without its prior written consent including,
-without limitation, in connection with any unauthorized modifications
-to any of its public licenses or any other arrangements,
-understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the
-public licenses.
-
-Creative Commons may be contacted at creativecommons.org.
-
+  a. This material is open to contributions of any kind. In the event that you decide to make a contribution of any kind to the material here under this license, you recognize that if "merged" into the project,  your contribution is non-negotiablely bound to this licence, and can not be bound to a higher or lower restriction one. Summary: your contribution is automatically bound to this license if merged.
+  
+  b. By having your contribution merged or added in any way into this project, you understand that while licensed under this same license, you still retain ownership over your writing/code and will continue to indefinitely. Exceptions are: any writing that you choose to add to the "Solution Database," any information that is verified to be inaccurate, or any contributions that are not added to the project.
+  
+  c. RIGHT TO REMOVAL - if you no longer wish to have your contributions on the website, you are entitled to request removal of your contribution, consistent with your ownership of your writing/code. In order to request removal, you must contact the author of the project in any way, and then allow them a reasonable amount of time (up to 14 days) to remove your content. Note that the Author is only entitled to remove your content if you possess ownership of said content and defined in this license.
