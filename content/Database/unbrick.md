@@ -4,7 +4,6 @@ type: docs
 prev: docs/Database/
 ---
 
-# Unbricking a Kindle
 Sometimes things go wrong when jailbreaking or messing around. So let's fix it!
 ## Prerequisites
 - **Patience**
