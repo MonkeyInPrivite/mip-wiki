@@ -8,7 +8,7 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="Database" title="Database" icon="book-open" >}}
+  {{< card link="database" title="Database" icon="book-open" >}}
   {{< card link="aboutus" title="About Us" icon="user" >}}
 {{< /cards >}}
 
