@@ -1,5 +1,5 @@
 ---
-title: What is this for?
+title: Database
 type: docs
 prev: docs/first-page
 next: docs/Database/leaf
