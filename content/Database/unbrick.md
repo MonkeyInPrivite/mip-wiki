@@ -6,7 +6,7 @@ prev: docs/Database/
 
 # Unbricking a Kindle
 Sometimes things go wrong when jailbreaking or messing around. So let's fix it!
-## Prerequisites:
+## Prerequisites
 - **Patience**
 - Preferably a PC, but a Mac can work
 - Decent technical experience (don't worry, I'll try to make it easy)
