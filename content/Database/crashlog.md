@@ -8,7 +8,7 @@ Every now and then, you may see random files appearing on your homescreen called
 
 ## Method 1 - With a Computer
 1. Connect your Kindle to your computer.
-2. Create a file called "DISABLE_CORE_DUMP" with no file extension.
+2. Create a file called `DISABLE_CORE_DUMP` with no file extension.
 
 ## Method 2 - Through kterm
 1. Open kterm
