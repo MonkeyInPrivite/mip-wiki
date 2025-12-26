@@ -23,7 +23,8 @@ You have a few options now:
 
 1. Wait for the battery to run out *(This could take an **extremely** long time)* and then plug it in.
 2. If you are comfortable with doing so, open up your Kindle and unplug the battery. Then just plug it back in.  
-Unless the physics that apply everywhere else on Earth are suspended in your house, your Kindle has now restarted
+  
+Unless the physics that apply everywhere else on Earth are suspended in your house, your Kindle should have now restarted.
 # Accessing your Kindle with a Computer
 > [!IMPORTANT]  
 > If you are not able to access your Kindle with a computer, you will have to continue to the [advanced steps](#advanced-steps).
@@ -48,8 +49,9 @@ You should now be able to follow the PC instructions.
 > **Follow these steps at your own risk**
 
 This is where things start to get complicated. You absolutely follow all of these instructions at your own risk and accept the responsibility  for any consequences of messing it up.  
-- You could try [this guide](https://gist.github.com/TobiasWooldridge/22f0cdca75190b9a473f) about using the Serial interface if you are on a Paperwhite.
+- You could try [this guide](https://gist.github.com/TobiasWooldridge/22f0cdca75190b9a473f) about using the Serial interface if you are on a Paperwhite. **This may not work on newer Kindles**
 - Or you could check out the [Mobileread Tools](https://wiki.mobileread.com/wiki/Kindle_Tools_Index#Debricking).
+- Join the [Kindle Modding Community Discord Server](https://discord.kindlemodding.org/) and ask there.
 
 # Conclusion 
 Hopefully this Debricked your Kindle! If you still need support, join the [Kindle Modding Community](https://discord.kindlemodding.org/) and open a ticket in #questions-and-support!  
