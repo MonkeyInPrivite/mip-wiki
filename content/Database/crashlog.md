@@ -15,4 +15,4 @@ Every now and then, you may see random files appearing on your homescreen called
 2. Run this command ```touch /mnt/us/DISABLE_CORE_DUMP```
 
 ## Method 3 - With a Scriptlet
-1. GreenCat777 has provided a scriptlet that runs the past command for you! You can download it [here](assets/disable_crash_logs.sh)
+1. GreenCat777 has provided a scriptlet that runs the past command for you! You can download it [here](../assets/disable_crash_logs.sh)
