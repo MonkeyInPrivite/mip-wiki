@@ -16,7 +16,7 @@ Sometimes things go wrong when jailbreaking or messing around. So let's fix it!
 First, lets figure out if your Kindle is actually bricked  
 
 1. See if holding down the power button for about 5 seconds pops up a screen thats lets you restart and if it does then do so.
-2. If it does not or your kindle is still bricked, then hold down the power button for about a minute and it should force restart.
+2. If it does not or your Kindle is still bricked, then hold down the power button for about a minute and it should force restart.
 
 If this still does not work/did not fix your issue, it is safe to say your Kindle is bricked.  
 You have a few options now:  
@@ -52,10 +52,10 @@ This is where things start to get complicated. You absolutely follow all of thes
 - Or you could check out the [Mobileread Tools](https://wiki.mobileread.com/wiki/Kindle_Tools_Index#Debricking).
 
 # Conclusion 
-Hopefully this Debricked your kindle! If you still need support, join the [Kindle Modding Community](https://discord.kindlemodding.org/) and open a ticket in #questions-and-support!  
+Hopefully this Debricked your Kindle! If you still need support, join the [Kindle Modding Community](https://discord.kindlemodding.org/) and open a ticket in #questions-and-support!  
 
 # Credits 
-MonkeyInPrivite - Wrote this Guide
-kindlemodshelfguy (NemesisHubris) - Originally showcased this guide on https://kindlemodshelf.me
-Mobileread - Advanced Instructions
-TobiasWooldridge - Paperwhite Serial Interface Unbricking Guide
+- MonkeyInPrivite - Wrote this Guide
+- kindlemodshelfguy (NemesisHubris) - Originally showcased this guide on https://kindlemodshelf.me
+- Mobileread - Advanced Instructions
+- TobiasWooldridge - Paperwhite Serial Interface Unbricking Guide
