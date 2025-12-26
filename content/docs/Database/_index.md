@@ -1,10 +1,6 @@
 ---
-title: Database
-type: docs
-prev: docs/first-page
-next: docs/Database/leaf
-sidebar:
-  open: true
+title: What is this for?
+linkTitle: Database
 ---
 
 In KMC, all of us Helpers have come up with many solutions to basically every problem. This Database aims to cover all of those. All pages nested under "Database" will be presented in a Q&A style format with the question being the page title, and the answer being the page content.
