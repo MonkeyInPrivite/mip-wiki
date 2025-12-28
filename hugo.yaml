@@ -37,7 +37,7 @@ menu:
 params:
   analytics:
     matomo:
-      serverURL: "https://matomo-self-hosted.onrender.com/"
+      serverURL: "matomo-self-hosted.onrender.com"
       websiteID: "1"
   navbar:
     displayTitle: true
