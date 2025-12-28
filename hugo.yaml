@@ -39,8 +39,6 @@ params:
     matomo:
       serverURL: "https://matomo-self-hosted.onrender.com/"
       websiteID: "1"
-
-params:
   navbar:
     displayTitle: true
     displayLogo: false
