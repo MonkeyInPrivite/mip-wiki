@@ -43,7 +43,7 @@ params:
     displayTitle: true
     displayLogo: false
   comments:
-    enable: true
+    enable: false
     type: giscus
 
     giscus:
