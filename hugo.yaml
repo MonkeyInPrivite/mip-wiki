@@ -42,6 +42,15 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: MonkeyInPrivite/mip-wiki-giscus
+      repoId: R_kgDOQwwuyQ
+      category: Announcements
+      categoryId: DIC_kwDOQwwuyc4C0XMC
 
   footer:
     displayCopyright: false
