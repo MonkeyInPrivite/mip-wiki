@@ -5,4 +5,4 @@ Note: Names can only be added to this list by the Owner of the project.
 
 +Dammit Jeff - Full permission to use any of the pages on https://mip-wiki.pages.dev This ONLY applies to that webpage.
 
-kindlemodshelfguy(NemesisHubris) - Permission to use the [Kindle Repair Guide](../Database/unbrick.md) on the website https://kindlemodshelf.me
+kindlemodshelfguy(NemesisHubris) - Permission to use the Kindle Repair Guide on the website https://kindlemodshelf.me
