@@ -53,7 +53,7 @@ params:
       categoryId: DIC_kwDOQwwuyc4C0XMC
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
 
   editURL:
