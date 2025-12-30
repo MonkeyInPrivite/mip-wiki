@@ -17,4 +17,4 @@ OTA Blokcing is one of the most important steps when it comes to jailbreaking, a
 2. Open the BinaryRenamer menu.
 3. If the OTA button says "Restore OTA Updates" then OTA's are blocked.
 
--# P.S. If somebody wanted to make a scriptlet that manages both of these, *I'm not going to stop you* 😂 (obviously you'll get credit lol)
+###### P.S. If somebody wanted to make a scriptlet that manages both of these, *I'm not going to stop you* 😂 (obviously you'll get credit lol)
