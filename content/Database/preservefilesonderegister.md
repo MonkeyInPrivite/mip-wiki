@@ -1,5 +1,5 @@
 ---
-title: Preserve Files on Deregistering
+title: Preserve Files on Deregister
 type: docs
 prev: docs/Database/
 ---

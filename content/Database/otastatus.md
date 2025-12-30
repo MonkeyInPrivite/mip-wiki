@@ -4,7 +4,7 @@ type: docs
 prev: docs/Database/
 ---
 
-OTA Blokcing is one of the most important steps when it comes to jailbreaking, and if you're like me you want to make sure that you did it right. 
+OTA Blocking is one of the most important steps when it comes to jailbreaking, and if you're like me you want to make sure that you did it right. 
 
 ## If you used the instructions [on the Kindle Modding Wiki](https://kindlemodding.org/jailbreaking/post-jailbreak/disable-ota.html)
 1. Download the [Check OTA Status script by neura](../assets/Check OTA status.sh)
