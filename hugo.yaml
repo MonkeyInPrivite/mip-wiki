@@ -35,10 +35,6 @@ menu:
         icon: github
 
 params:
-  analytics:
-    matomo:
-      serverURL: "matomo-self-hosted.onrender.com"
-      websiteID: "1"
   navbar:
     displayTitle: true
     displayLogo: false
