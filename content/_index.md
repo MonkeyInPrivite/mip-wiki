@@ -10,6 +10,7 @@ This is the landing page.
 {{< cards >}}
   {{< card link="database" title="Database" icon="book-open" >}}
   {{< card link="aboutus" title="About Us" icon="user" >}}
+  {{< card link="creatorusepolicy" title="Creator Use Policy" icon="device-tablet" >}}
 {{< /cards >}}
 
 ## Documentation
