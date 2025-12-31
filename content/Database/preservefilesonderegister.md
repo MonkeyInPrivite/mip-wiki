@@ -17,7 +17,7 @@ If you had to switch accounts to jailbreak and want to switch back or don't want
 - ```mntroot ro```
 
 > [!IMPORTANT]
-Books and Scriptlets will not appear in library due to the kindle thinking they have been deleted, when they haven't actually been deleted. To restore them, you can copy them to your pc then back to the Kindle. Bluetooth is also hidden on deregistered devices as it only appears on devices of Audible regions but a deregistered Kindle is region-less to restore bluetooth you can use [this guide](put a link for restoring bt on diff regions guide here).
+Books and Scriptlets will not appear in library due to the kindle thinking they have been deleted, when they haven't actually been deleted. To restore them, you can copy them to your pc then back to the Kindle. Bluetooth is also hidden on deregistered devices as it only appears on devices of Audible regions but a deregistered Kindle is region-less to restore bluetooth you can use [this guide](../bluetooth.md).
 
 ## Credits
 GreenCat777 - Wrote this guide and the provided files
