@@ -4,7 +4,7 @@ type: docs
 prev: docs/Database/
 ---
 
-If you had to switch accounts to jailbreak or don't want to be registered to Amazon you can use this.
+If you had to switch accounts to jailbreak and want to switch back or don't want to be registered to Amazon you can use this.
 
 ## Method 1 - With a Scriptlet 
 1. GreenCat777 has provided a scriptlet that does it all for you, You can [download it here](../assets/preserve.sh).
