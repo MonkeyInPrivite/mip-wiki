@@ -1,6 +1,7 @@
 ---
 title: Application Error Popup
 type: docs
+prev: docs/Database/
 ---
 
 A scary error with a less scary meaning. 
