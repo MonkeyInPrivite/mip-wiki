@@ -11,6 +11,7 @@ This error is a dialogue box that can pop up at seemingly random times and can b
 
 ## What is this?
 In an older version of this page I attempted to explain this error, but Penguins (absolute legend btw) pointed out to me that my explanation was completely wrong, so I'll just put his explanation here 😅  
+
   
 <details>
 <summary>Penguins' Explanation?</summary>
