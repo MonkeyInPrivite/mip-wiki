@@ -1,5 +1,5 @@
 ---
-title: Scriptlets, and how to use them
+title: Scriptlets, And How To Use Them
 type: docs
 prev: docs/Database/
 ---
