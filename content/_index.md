@@ -3,7 +3,7 @@ title: Overview
 toc: false
 ---
 
-This is the landing page.
+Welcome to MIP Wiki! This site mainly focuses around the [Information Database](../Database/) which is a list of solutions to problems we have helped solve in the past. This entire website is managed by the KMC Helper Team, and we're here to support you! If you cannot find your solution on this site, you can join the [Kindle Modding Community Discord Server](http://discord.kindlemodding.org/), and make a ticket in the #questions-and-support channel!
 
 ## Explore
 
