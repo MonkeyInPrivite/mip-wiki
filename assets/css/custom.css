@@ -1,9 +1,5 @@
-.hextra-footer .prose {
+.hextra-footer,
+.hextra-footer * {
   margin: 0 !important;
   padding: 0 !important;
-}
-
-.hextra-footer .prose > * {
-  margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
 }
