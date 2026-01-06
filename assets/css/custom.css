@@ -1,16 +1,9 @@
-.hextra-footer {
-  padding-top: 0.5rem !important;
-  padding-bottom: 0.5rem !important;
+.hextra-footer .prose {
+  margin: 0 !important;
+  padding: 0 !important;
 }
-.hextra-custom-footer {
-  margin-bottom: 0.25rem !important;
-}
-.hextra-custom-footer h1,
-.hextra-custom-footer h2,
-.hextra-custom-footer h3,
-.hextra-custom-footer h4 {
-  margin-bottom: 0.25rem !important;
-}
-.hextra-footer p:last-child {
+
+.hextra-footer .prose > * {
   margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
 }
