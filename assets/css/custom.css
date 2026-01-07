@@ -2,3 +2,4 @@
   padding-top: 0rem !important;
   padding-bottom: 1rem !important;
 }
+header.hx-header { transition: background-color 0.2s ease; } header.hx-header.hx-header-scrolled { background-color: var(--hx-bg); backdrop-filter: blur(8px); }
