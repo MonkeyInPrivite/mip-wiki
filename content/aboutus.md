@@ -11,3 +11,7 @@ Hi! My name is MonkeyInPrivite, which is where the name of this wiki comes from!
 Howdy there! I’m GreenCat777, you can call me GC, Green, Cat, GreenCat, whatever you want. I got into Kindle jailbreaking from [Jeff’s video](https://youtu.be/Qtk7ERwlIAk) (Jeff's a great Youtuber, go watch his stuff).
 Just like Monkey, I read all the docs, and then I read the actual guide for WinterBreak, only to find out it had to be below 5.18.1. I was on 5.18.4.........
 I joined KMC and started reading more docs, after jailbreaking with AdBreak, I helped a lot of people in the #questions-and-support channel Monkey noticed this and managed to make me a Helper, meanwhile I started making SH shortcuts and eventually got better and made more packages and even Linux ports. For more of a resume style of bio, look [here](https://gc-bio.vercel.app/).
+
+## Penguins184
+Hi, I'm Penguins184.
+Hello! I'm A Fullstack Web And JS Dev Who Likes To Make Discord Bots, Websites, And Work With Networking! I Am Also Experienced In Unix/Bash Shells And Linux Working Environments.
