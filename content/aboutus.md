@@ -13,5 +13,4 @@ Just like Monkey, I read all the docs, and then I read the actual guide for Wint
 I joined KMC and started reading more docs, after jailbreaking with AdBreak, I helped a lot of people in the #questions-and-support channel Monkey noticed this and managed to make me a Helper, meanwhile I started making SH shortcuts and eventually got better and made more packages and even Linux ports. For more of a resume style of bio, look [here](https://gc-bio.vercel.app/).
 
 ## Penguins184
-Hi, I'm Penguins184.
-Hello! I'm A Fullstack Web And JS Dev Who Likes To Make Discord Bots, Websites, And Work With Networking! I Am Also Experienced In Unix/Bash Shells And Linux Working Environments.
+Hi, I'm Penguins184. I'm A Fullstack Web And JS Dev Who Likes To Make Discord Bots, Websites, And Work With Networking! I Am Also Experienced In Unix/Bash Shells And Linux Working Environments.
