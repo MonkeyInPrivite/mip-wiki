@@ -8,4 +8,4 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 
 ## 
 
-# Hai Beta Testers!!!!! (ill finish this in a sec) 
+# Hai Beta Testers!!!!! (ill finish this in the morning i need sleep lolz) 
