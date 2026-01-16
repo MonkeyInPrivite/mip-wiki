@@ -12,3 +12,4 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 3. Open it from your Kindle's homescreen
 
 ## Through kterm
+1. Open kterm
