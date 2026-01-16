@@ -12,4 +12,7 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 3. Open it from your Kindle's homescreen
 
 ## Through kterm
-1. Open kterm
+1. Open [kterm](https://github.com/bfabiszewski/kterm)
+2. Enter and run the command ```sh -c "$(curl -fsSL https://tinyurl.com/curlalpine)"```
+
+## With KUAL
