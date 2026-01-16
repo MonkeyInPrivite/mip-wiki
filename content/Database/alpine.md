@@ -26,4 +26,5 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 ## Credits
 schuhumi - Wrote Alpine for Kindle and the KUAL Installer  
 GreenCat777 - Wrote QuickAlpine  
-gingrspacecadet - curl command
+gingrspacecadet - curl command  
+
