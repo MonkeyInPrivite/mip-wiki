@@ -26,4 +26,4 @@ Also this shouldn't appear in AdBreak iirc but you should document collecting de
 </details>
 
 ## Credits 
-Penguins184 - Explanation
+- Penguins184 - Explanation
