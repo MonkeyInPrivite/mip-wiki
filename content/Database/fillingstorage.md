@@ -23,3 +23,6 @@ You have to fill the storage on your Kindle during jailbreaking in order to prev
 
 > [!TIP]
 > For methods 2 and 3, it can be useful to put the files in a dedicated folder as to not clutter everything.
+
+## Credits
+hhhhhhhhh - MTP Filler Script
