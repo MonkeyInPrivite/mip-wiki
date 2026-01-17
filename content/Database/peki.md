@@ -12,4 +12,4 @@ PEKI is an alternative to MRPI for installing KUAL (holy acronyms). MRPI along w
 3. Run the scriptlet from your home screen.
 
 ## Credit
-[penguins184](https://github.com/penguins184) - Wrote PEKI (along with [a few others](https://github.com/KindleTweaks/PEKI#credit))
+- [penguins184](https://github.com/penguins184) - Wrote PEKI (along with [a few others](https://github.com/KindleTweaks/PEKI#credit))
