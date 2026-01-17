@@ -28,6 +28,6 @@ If you do not have an mrpackages folder (ex. you used PEKI to get KUAL) then you
 6. Once your Kindle finishes "Updating" Block OTA's again and you can now disable Airplane Mode
 
 ## Credits
-[Marek](https://github.com/notmarek) - Wrote USBNetLite  
-[NiLuJe](https://www.mobileread.com/forums/member.php?u=69624) - Wrote USBNetwork  
-pumpkinlime132 - Provided original links and Guide in KMC
+- [Marek](https://github.com/notmarek) - Wrote USBNetLite
+- [NiLuJe](https://www.mobileread.com/forums/member.php?u=69624) - Wrote USBNetwork
+- pumpkinlime132 - Provided original links and Guide in KMC
