@@ -16,4 +16,4 @@ In order to update KindleForge, you have to open the app, click the 3 dots on to
 
 # Credits
 - GreenCat777 - Wrote the Installation Section
-- KindleTweaks Organization - Created KindleForge
+- [KindleTweaks Organization](https://github.com/KindleTweaks) - Created KindleForge
