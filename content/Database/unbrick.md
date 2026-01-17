@@ -59,4 +59,4 @@ Hopefully this Debricked your Kindle! If you still need support, join the [Kindl
 - MonkeyInPrivite - Wrote this Guide
 - kindlemodshelfguy ([NemesisHubris](https://github.com/NemesisHubris)) - Originally showcased this guide on https://kindlemodshelf.me
 - Mobileread - Advanced Instructions
-- TobiasWooldridge - Paperwhite Serial Interface Unbricking Guide
+- [TobiasWooldridge](https://github.com/TobiasWooldridge) - Paperwhite Serial Interface Unbricking Guide
