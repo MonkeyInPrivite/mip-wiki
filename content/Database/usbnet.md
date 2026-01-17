@@ -9,6 +9,7 @@ USBNetwork/USBNetLite allows you to manage your Kindle over the Internet, allowi
 ## Installing
 > [!IMPORTANT]
 > If you do not have an `mrpackages` folder in the root of your Kindle, please continue to the [Alternate Instructions](#alternate-instructions).
+
 **On Kindle Firmwares 5.16.3 or Later:**
 1. Download the latest release of USBNetLite [here](https://github.com/notmarek/kindle-usbnetlite/releases/latest). Download the 11th gen plus version if you are on a 11th Gen or higher Kindle.
 2. Move the .bin file to the mrpackages folder on your Kindle
