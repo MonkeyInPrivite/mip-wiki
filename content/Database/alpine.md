@@ -27,7 +27,6 @@ sh -c "$(curl -fsSL https://tinyurl.com/curlalpine)"
 4. Click the button to download the latest release
 
 ## Credits
-schuhumi - Wrote Alpine for Kindle and the KUAL Installer  
-GreenCat777 - Wrote QuickAlpine  
-gingrspacecadet - curl command  
-
+[schuhumi](https://github.com/schuhumi) - Wrote Alpine for Kindle and the KUAL Installer  
+[GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine  
+[gingrspacecadet](https://github.com/gingrspacecadet) - curl command  
