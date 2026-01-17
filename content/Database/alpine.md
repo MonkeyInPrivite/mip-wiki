@@ -15,7 +15,10 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 > [!IMPORTANT]
 > You will get an error saying that the install file cannot be deleted, this can safely be ignored.
 1. Open [kterm](https://github.com/bfabiszewski/kterm)
-2. Enter and run the command ```sh -c "$(curl -fsSL https://tinyurl.com/curlalpine)"```
+2. Enter and run the command
+```
+sh -c "$(curl -fsSL https://tinyurl.com/curlalpine)"
+```
 
 ## With KUAL
 1. Download the latest release [here](https://github.com/schuhumi/alpine_kindle_kual/releases/latest/download/alpine_kindle_kual.zip)
