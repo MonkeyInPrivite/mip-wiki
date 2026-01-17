@@ -19,3 +19,15 @@ USBNetwork/USBNetLite allows you to manage your Kindle over the Internet, allowi
 1. Follow the previous instructions, but download [this](https://storage.gra.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-usbnet-0.22.N-r19297.tar.xz) file instead.
 
 ## Alternate Instructions 
+If you do not have an mrpackages folder (ex. you used PEKI to get KUAL) then you need to install it a little differently.
+1. Download the version for your Kindle from the standard instructions.
+2. Move the file to the root of your Kindle
+3. Enable Airplane Mode
+4. Restore OTA Updates
+5. Go to your Kindles Settings < 3 dots menu < Update your Kindle
+6. Once your Kindle finishes "Updating" Block OTA's again and you can now disable Airplane Mode
+
+## Credits
+[Marek](https://github.com/notmarek) - Wrote USBNetLite  
+[NiLuJe](https://www.mobileread.com/forums/member.php?u=69624) - Wrote USBNetwork  
+pumpkinlime132 - Provided original links and Guide in KMC
