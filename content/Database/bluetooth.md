@@ -1,5 +1,5 @@
 ---
-title: Bluetooth In a Non Supported Region Or On an Unregistered Device 
+title: Toggling Bluetooth In a Non Supported Region Or On an Unregistered Device 
 type: docs
 prev: docs/Database/
 ---
