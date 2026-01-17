@@ -15,7 +15,7 @@ USBNetwork/USBNetLite allows you to manage your Kindle over the Internet, allowi
 2. Move the .bin file to the mrpackages folder on your Kindle
 3. In KUAL, open the "Helper" app and click "Install MR Packages" **OR** on the Kindle homescreen, you can enter ```;log mrpi``` in the search bar and hit enter.
 
-### On Supported Kindle Firmwares Under 5.16.3
+### On Supported Kindle Firmwares Under 5.16.3:
 1. Follow the previous instructions, but download [this](https://storage.gra.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-usbnet-0.22.N-r19297.tar.xz) file instead.
 
 ## Alternate Instructions 
