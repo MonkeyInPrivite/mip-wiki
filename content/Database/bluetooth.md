@@ -22,4 +22,4 @@ and this to turn it off
 Bluetooth is only enabled on Kindles where Audible (Amazon's audiobook platform) is supported. Also if you deregister your Kindle, it is not assigned to a region so Amazon cannot confirm that you are in an Audible supported region, so Bluetooth is disabled.
 
 ## Credits
-GreenCat777 - Wrote this guide and created the provided files.
+- GreenCat777 - Wrote this guide and created the provided files.
