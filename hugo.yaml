@@ -38,11 +38,6 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
-  highlight:
-    copy:
-      enable: true
-      # hover | always
-      display: hover
   comments:
     enable: false
     type: giscus
