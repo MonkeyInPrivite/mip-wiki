@@ -11,3 +11,4 @@ RELEASE AGENDA:
 - Hook up matomo anylytics
 - check roadmap
 - add an uptime thing
+- uncomment last modified date stuff
