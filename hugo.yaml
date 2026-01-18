@@ -34,6 +34,7 @@ menu:
       params:
         icon: github
 
+enableGitInfo: true
 params:
   navbar:
     displayTitle: true
@@ -41,6 +42,8 @@ params:
   comments:
     enable: false
     type: giscus
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
 
     giscus:
       repo: MonkeyInPrivite/mip-wiki-giscus
