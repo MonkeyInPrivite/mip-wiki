@@ -1,5 +1,5 @@
 ---
-title: The Release Day of MIP Wiki!
+title: The Release Day of MIP Wiki
 type: blog
 comments: true
 ---
