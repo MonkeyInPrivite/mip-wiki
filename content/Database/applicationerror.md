@@ -14,7 +14,7 @@ In an older version of this page I attempted to explain this error, but Penguins
 
   
 <details>
-<summary>Penguins' Explanation?</summary>
+<summary>Penguins' Explanation</summary>
 The error will only be visible on application launch, e.g. an invalid appreg entry, which could occur for example in an illusion app if you don't copy the folder and only the .sh (or if the app has no config XML)
 
 If the app itself has an error it'll just like tweak out. Look wrong cuz there's a bug or crash
