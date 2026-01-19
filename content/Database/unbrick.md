@@ -56,7 +56,7 @@ This is where things start to get complicated. You absolutely follow all of thes
 Hopefully this Debricked your Kindle! If you still need support, join the [Kindle Modding Community](https://discord.kindlemodding.org/) and open a ticket in #questions-and-support!  
 
 ## Credits 
-- MonkeyInPrivite - Wrote this Guide
+- MonkeyInPrivate - Wrote this Guide
 - kindlemodshelfguy ([NemesisHubris](https://github.com/NemesisHubris)) - Originally showcased this guide on https://kindlemodshelf.me
 - Mobileread - Advanced Instructions
 - [TobiasWooldridge](https://github.com/TobiasWooldridge) - Paperwhite Serial Interface Unbricking Guide
