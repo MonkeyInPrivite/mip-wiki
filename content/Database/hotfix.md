@@ -6,7 +6,7 @@ sidebar:
   exclude: true
 ---
 
-## Method 1 (reccomended)
+## Method 1 (recommended)
 1. Download the [latest hotfix](https://github.com/KindleModding/Hotfix/releases/latest/download/Update_hotfix_universal.bin)
 2. Copy `Update_hotfix_universal.bin` into your `mrpackages` folder
 3. Enter `;log mrpi` in the search bar and hit enter **OR** in KUAL go into "Helper" then click "Install MRPackages".

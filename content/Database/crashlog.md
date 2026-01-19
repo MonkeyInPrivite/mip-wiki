@@ -16,7 +16,6 @@ Every now and then, you may see random files appearing on your homescreen called
 
 ## Method 3 - Through kterm
 1. Open kterm
-
 2. Run the command ```touch /mnt/us/DISABLE_CORE_DUMP```
 
 ## Credits
