@@ -13,7 +13,7 @@ Believe it or not, but not only can you run Alpine Linux on the Kindle, it is su
 
 ## Through kterm
 > [!IMPORTANT]
-> You will get an error saying that the install file cannot be deleted, this can safely be ignored.
+> You may get an error saying that the install file cannot be deleted, this can safely be ignored.
 1. Open [kterm](https://github.com/bfabiszewski/kterm)
 2. Enter and run the command
 ```
