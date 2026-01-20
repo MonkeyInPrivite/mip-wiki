@@ -6,6 +6,11 @@ This page aims to be a simple breakdown of how pages should be written on this W
 - Capitalize KMC specific terms like "KMRP" or "KUAL"
 - Capitalizing "Scriptlet" is preferred
 
+# Linking
+- When linking to other pages on the site, please use the file path and not the url.
+*Wrong Example:* `[click here for free ebooks](https://mip-wiki.pages.dev/database/assets/EasyBrick.sh)`
+*Correct Example:* `[click here for free ebooks](../assets/EasyBrick.sh)`
+
 # Guides
 - When writing steps, please format them in chronological order
 Ex:
