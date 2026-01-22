@@ -25,17 +25,3 @@ function cloudflareScript() {
   document.head.appendChild(cfScript);
 }
 requestIdleCallback(() => cloudflareScript());
-
-document.addEventListener("DOMContentLoaded", () => {
-    const tint = document.createElement("div");
-    tint.style.position = "fixed";
-    tint.style.top = "0";
-    tint.style.left = "0";
-    tint.style.width = "100vw";
-    tint.style.height = "100vh";
-    tint.style.background = "rgba(0, 255, 0, 0.08)"; // light green tint
-    tint.style.pointerEvents = "none";
-    tint.style.zIndex = "999999";
-
-    document.body.appendChild(tint);
-});
