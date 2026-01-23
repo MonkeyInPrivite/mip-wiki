@@ -8,7 +8,7 @@ function cloudflareScript() {
   const cfToken = "e59d6d4bb3bf4de9a7091a2d326018d0";
 
   // Create global config object before loading the script
-  window.__cfBeacon = {
+  window.cfBeacon = {
     token: cfToken,
     spa: false,
     send: {
@@ -21,7 +21,7 @@ function cloudflareScript() {
   cfScript.defer = true;
   cfScript.src = urlLoader;
   // Set the data attribute with the same config to ensure it's picked up
-  cfScript.setAttribute("data-cf-beacon", JSON.stringify(window.__cfBeacon));
+  cfScript.setAttribute("data-cf-beacon", JSON.stringify(window.cfBeacon));
   document.head.appendChild(cfScript);
 }
 requestIdleCallback(() => cloudflareScript());
