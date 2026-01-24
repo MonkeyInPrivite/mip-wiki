@@ -15,7 +15,7 @@ I never imagined that it turn into all of this, and thank you to the team for he
 Special Thanks to:
 - Penguins184 - Stage 1 Tester and Developer, joined the team on December 30, 2025
 - GreenCat777 - Stage 1 Tester and Developer, joined the team on December 22, 2025
-- LOT - Stage 2 Tester - joined the team on January 19, 2026
+- LOT - Stage 2 Tester, joined the team on January 19, 2026
 
 And more is to come! 
 
