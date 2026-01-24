@@ -42,6 +42,10 @@ params:
   comments:
     enable: false
     type: giscus
+  banner:
+    key: 'Welcome to The Release of MIP Wiki!'
+    message: |
+      If you want to read about how this came to be, read the [blog post](https://mip-wiki.pages.dev/blog/releaseday/)!
 #  displayUpdatedDate: true
 #  dateFormat: "January 2, 2006"
 
