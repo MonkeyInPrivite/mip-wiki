@@ -6,7 +6,7 @@ prev: docs/Database/
 
 OTA Blocking is one of the most important steps when it comes to jailbreaking, and if you're like me you want to make sure that you did it right. 
 
-## If you used the instructions [on the Kindle Modding Wiki](https://kindlemodding.org/jailbreaking/post-jailbreak/disable-ota.html)
+## If you used the instructions [on the Kindle Modding Wiki](https://kindlemodding.org/jailbreaking/post-jailbreak/disable-ota.html) **OR** [The OTA scriptlet](https://discord.com/channels/1083603487025274911/1324767381184053268)
 1. Download the [Check OTA Status Script](https://github.com/neura-neura/Check-OTA-status/releases/latest/download/Check.OTA.status_current.sh) by neura
 2. Place the file in your documents folder
 3. It should show up in your home screen, click to run it.
