@@ -14,7 +14,7 @@ If the app itself has an error it'll just tweak out. It'll look wrong because th
 App error happens when you launch something with lipc with appmgrd and the app doesn't exist, is misconfigured, etc.
 By the way you see this most often in Illusion apps due to user error (not copying correctly) or because of elder firmwares which make the scriptlet be a bit funky (thanks HackerDude)
 
-Also this shouldn't appear in AdBreak but you should document collecting debug info which is the popup that occurs when a process (mesquite) crashes (the exploit in AdBreak does that). However if it does pop up in Adbreak or the Hotfix do not be worried, it's common behavior.
+Also this shouldn't appear in AdBreak but you should document collecting debug info which is the popup that occurs when a process (mesquite) crashes (the exploit in AdBreak does that). However if it does pop up in Adbreak or the Hotfix don't be worried, it's common behavior.
 
 ## Credits 
 - [Penguins184](https://github.com/penguins184) - Explanation
