@@ -8,10 +8,10 @@ prev: docs/Database/
 
 You have to fill the storage on your Kindle during jailbreaking in order to prevent updates that can ruin your jailbreak. This guide covers the 3 methods of doing so.
 
-## Method 1 - hhhhhhhhh's Powershell Script
+## Method 1 - hhhhhhhhh's Powershell Script (Windows Only)
 1. Download the script [here](../assets/kindle_fill.ps1)
-2. Navigate to the directory where you downloaded the file to in the command prompt.
-3. Run the command ```powershell -STA -executionpolicy bypass .\kindle_fill.ps1```
+2. Right click the file in file manager and press `Run With Powershell`
+3. Follow the instructions
 
 ## Method 2 - Use premade filler files
 1. Download one of the files from [here](https://github.com/iiroak/Kindle-Filler-Disk/tree/main/MTP)
