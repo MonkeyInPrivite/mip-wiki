@@ -35,10 +35,13 @@ menu:
         icon: github
 
 enableGitInfo: true
+
 params:
   navbar:
     displayTitle: true
     displayLogo: false
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
   comments:
     enable: false
     type: giscus
@@ -47,8 +50,6 @@ params:
     message: |
       🎉 Welcome to MIP Wiki!  
       If you want to read about how this came to be, read the [blog post](https://mip-wiki.pages.dev/blog/releaseday/)!
-  displayUpdatedDate: true
-  dateFormat: "January 2, 2006"
 
     giscus:
       repo: MonkeyInPrivite/mip-wiki-giscus
