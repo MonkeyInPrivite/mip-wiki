@@ -7,3 +7,4 @@ When submitting a contribution, please follow these general rules to keep everyt
 4. **Linking to Piracy Sites will have you immediately removed from the repo**
 5. No advertising
 6. **You must give proper credit.** A repeated pattern of not giving proper credit will result in you being removed from the repo.
+7. Generally, irrelevant or trivial contributions (ex. fixing a typo in the README or adding a space between lines) may not be merged and just committed by a collaborator instead. This is to prevent someone from "just trying to get into the contributors section," please note that this is enforceable by collaborators based on discretion.
