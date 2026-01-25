@@ -1,7 +1,7 @@
 ---
 title: The Release Day of MIP Wiki
 type: blog
-comments: true
+comments: false
 ---
 
 Whelp, it's that day.
