@@ -5,4 +5,6 @@ sidebar:
   exclude: true
 ---
 
-e
+<!-- Hai code surfers!!! Good luck decoding this 😇 -->
+
+Example for PDM. Not ment to be used as a valid guide.
