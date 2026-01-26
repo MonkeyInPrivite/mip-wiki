@@ -1,5 +1,5 @@
 ---
-title: test
+title: PDM MIP Wiki Example
 type: default
 sidebar:
   exclude: true
