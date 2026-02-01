@@ -45,17 +45,17 @@ params:
   comments:
     enable: false
     type: giscus
-  banner:
-    key: 'Welcome to The Release of MIP Wiki!'
-    message: |
-      🎉 Welcome to MIP Wiki!  
-      If you want to read about how this came to be, read the [blog post](https://mip-wiki.pages.dev/blog/releaseday/)!
-
+    
     giscus:
       repo: MonkeyInPrivite/mip-wiki-giscus
       repoId: R_kgDOQwwuyQ
       category: Announcements
       categoryId: DIC_kwDOQwwuyc4C0XMC
+  banner:
+    key: 'Welcome to The Release of MIP Wiki!'
+    message: |
+      🎉 Welcome to MIP Wiki!  
+      If you want to read about how this came to be, read the [blog post](https://mip-wiki.pages.dev/blog/releaseday/)!
 
   footer:
     displayCopyright: true
