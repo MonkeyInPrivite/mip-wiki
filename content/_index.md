@@ -10,6 +10,7 @@ Welcome to MIP Wiki! This site mainly focuses around the [Information Database](
 {{< cards >}}
   {{< card link="database" title="Database" icon="book-open" >}}
   {{< card link="aboutus" title="About Us" icon="user" >}}
+  {{< card link="blog" title="Blog" icon="scroll" >}}
   {{< card link="creatorusepolicy" title="Creator Use Policy" icon="camera" >}}
 {{< /cards >}}
 
