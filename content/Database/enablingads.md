@@ -15,3 +15,5 @@ If you don't have ads enabled and would like to use [AdBreak](https://www.mobile
 On a Computer, click on your account, and click on "Devices"
 3. Find your Kindle and click on it
 4. Scroll down to "Special Offers"
+5. Click "Sign up for offers"
+6. On the window that pops up, click "Sign up for offers" (yes, again)
