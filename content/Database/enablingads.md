@@ -6,8 +6,9 @@ prev: docs/Database/
 
 Need to enable ads for Adbreak? This guide is for you!
 > [!IMPORTANT]
-> Ads **CANNOT** be enabled on the KS2, CS or newer.
-> The KS1 requires France
+> Ads **CANNOT** be enabled on the KS2, CS or newer of those types.
+> The KS1 requires France.
+> However ads can be enabled on signature editions.
 > Valid billing (Credit Card) is required. Amazon has patched fakes.
 1. Make sure your Kindle is registered in an ad-supported region. (US or France)
 2. Go [here](https://www.amazon.com/hz/mycd/digital-console/alldevices) for US or [here](https://www.amazon.fr/hz/mycd/digital-console/alldevices) for France
