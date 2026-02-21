@@ -16,8 +16,9 @@ Need to enable ads for Adbreak? This guide is for you!
 4. Profit!
 
 # Troubleshooting
-Are ads still not enabling? Make sure the Kindle's compatible, then try this.
-
+## Kindle not showing up?
+Make sure your Kindle is registered to that Amazon account. You can check the account on your Kindle in settings.
+## Are ads still not enabling? Make sure the Kindle's compatible, then try this.
 1. Make sure ads are enabled for the right Kindle on the Amazon website.
 2. Toggle Ads on and off (if it's free).
 3. Attempt a factory reset.
@@ -25,7 +26,7 @@ Are ads still not enabling? Make sure the Kindle's compatible, then try this.
 # Final option
 Well, you're here because troubleshooting didn't work, or you couldn't get valid credentials, huh?
 Well, have no fear, as GreenCat777 has given an ALT account to many people for Adbreak.
-He will also walk you through the entire process. Contact him [here](https://gc-bio.vercel.app/social/).
+He will also walk you through the entire process. Contact him [here](https://gc-bio.vercel.app/social/) and ask him for the account.
 
 # Credits
-- [GreenCat777](https://gc-bio.vercel.app/), the whole page and account.
+- [GreenCat777](https://gc-bio.vercel.app/), the majority of the page and account.
