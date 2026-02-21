@@ -7,7 +7,7 @@ prev: docs/Database/
 Believe it or not, but not only can you run Alpine Linux on the Kindle, it is surprisingly easy!
 
 ## KindleForge
-Thanks to GreenCat, Alpine Linux is available on the [KindleForge](./kforge) appstore.
+Thanks to GreenCat, Alpine Linux is available on the [KindleForge](../kforge) appstore.
 
 ## With a Scriptlet
 1. Click [here](https://github.com/GreenCat-777/QuickAlpine/releases/latest/download/install_alpine.sh) to download the latest release.
