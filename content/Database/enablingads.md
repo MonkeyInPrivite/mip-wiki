@@ -25,7 +25,7 @@ Are ads still not enabling? Make sure the Kindle's compatible, then try this.
 # Final option
 Well, you're here because troubleshooting didn't work, or you couldn't get valid credentials, huh?
 Well, have no fear, as GreenCat777 has given an ALT account to many people for Adbreak.
-He will also walk you through the entire process. Contact him [here](https://gc-bio/social/).
+He will also walk you through the entire process. Contact him [here](https://gc-bio.vercel.app/social/).
 
 # Credits
 - [GreenCat777](https://gc-bio.vercel.app/), the whole page and account.
