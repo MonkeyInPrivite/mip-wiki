@@ -37,3 +37,6 @@ If you do not have a valid form of payment, things can get complicated. Previous
 
 # I'm on a Kindle Colorsoft/Scribe!
 On a 2022 Scribe, you can check out [this guide](https://discord.com/channels/1083603487025274911/1424197898995761255/1424197898995761255) by señor capo in the Kindle Modding Discord server.
+Otherwise, AdBreak is unfortunately not supported for your device.
+
+# After Enabling Ads, they still aren't showing up.
