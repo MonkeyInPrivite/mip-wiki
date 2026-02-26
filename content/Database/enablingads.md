@@ -29,4 +29,4 @@ Well, have no fear, as GreenCat777 has given an ALT account to many people for A
 He will also walk you through the entire process. Contact him [here](https://gc-bio.vercel.app/social/) and ask him for the account.
 
 # Credits
-- [GreenCat777](https://gc-bio.vercel.app/), the majority of the page and account.
+- [GreenCat777](https://gc-bio.vercel.app/), the page and account.
