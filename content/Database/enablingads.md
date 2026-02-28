@@ -45,3 +45,12 @@ This is a known issue that happens to some Kindles. There isn't an exact solutio
 2. Creating a new Amazon account, enabling ads from there, deregistering your Kindle, and logging in with your new account
 3. You can try waiting it out, try restarting your Kindle after an hour
 If all else fails, try opening a support thread in [KMC](https://discord.com/invite/wDbbZTF5QF).
+
+# I get an error saying "There was an error loading this page"
+1. [Fill your Kindle's Storage]
+2. Disable Airplane Mode
+3. Go back into "View all ads"
+If it still doesn't show, your network is likely blocking it in some way.
+
+# The jailbreak doesn't load!
+Make sure you copied the files and ran the replacement script correctly. If you did, your Kindle may not be supported.
