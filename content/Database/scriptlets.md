@@ -13,10 +13,10 @@ Scriptlets are one of the most used methods of running apps on the Kindle, and t
 4. The scriptlet should appear on your home screen as a "book". Click it to run.
 > [!IMPORTANT]
 > If you're installing an Illusion app, make sure that the folder is also copied
-> If you're on Firmware 5.12.2.2 or below and get an application error on all scriptlets, it's not an issue, just visual
+> If you're on Firmware 5.12.2.2 or below and get an application error on all scriptlets, it's not an issue, just visuals.
 
 ## What are Scriptlets
-Scriptlets are managed by SH_Integration (part of the Hotfix), which have a file extension of `.sh` which is also commonly used upon desktop Linux. This essentially means they are automated command lines. Scriptlets are special because when they are placed into the documents folder in your kindle they appear as a "book" or "booklet." And they can also be embedded with metadata such as Name, Author, and Icon. For info on developing scriptlets, make sure you have background knowledge in shell, then look here on the [kindlemodding.org Website](https://kindlemodding.org/kindle-dev/scriptlets.html).
+Scriptlets are managed by SH_Integration (part of the Hotfix), which have a file extension of `.sh` which is also commonly used upon desktop Linux. This essentially means they are automated command lines. Scriptlets are special because when they are placed into the documents folder in your kindle they appear as a "book" or "booklet." And they can also be embedded with metadata such as Name, Author, and Icon. For info on developing scriptlets, make sure you have background knowledge in shell, then look here on the [KindleModding](https://kindlemodding.org/kindle-dev/scriptlets.html) Website.
 
 ## Credits
 - [GreenCat777](https://github.com/GreenCat-777) - Wrote the page
